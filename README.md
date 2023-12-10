@@ -12,4 +12,4 @@ cd ARIYAN_RANDOM
 
 git clone https://github.com/HHH292/ARIYAN_RANDOM
 
-python ARIYAN_RANDOM
+python ARIYAN_RANDOM.py
