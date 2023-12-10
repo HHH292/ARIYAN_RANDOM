@@ -1,12 +1,12 @@
-pkg update
+pip install requests
 
-pkg upgrade
+pip install rich
 
-pkg install python
+pip install bs4
 
 pkg install git
 
-pip install bs4
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
 
 cd ARIYAN_RANDOM
 
